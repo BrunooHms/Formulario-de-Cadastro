@@ -1,0 +1,22 @@
+body {
+    background-image: url(/img/imagen-fundo.jpg);
+}
+
+#tituloCadastro {
+    background-color: rgba(4, 4, 4, 0.799);
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 25%;
+    width: 50%;
+    padding: 0.5%;
+    border-radius: 20px;
+}
+
+#botaoAtt {
+    margin-left: 45%;
+}
+
+.exemplos {
+    color: gray;
+}
